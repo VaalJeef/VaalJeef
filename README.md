@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![VaalJeef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaaljeef)](https://github.com/vaaljeef/github-readme-stats)
+![VaalJeef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaaljeef&theme=rose_pine&show_icons=true)
