@@ -1,5 +1,5 @@
 # 💫 À propos :
-🔭 Je suis actuellement un cursus de Concepteur Développeur d'Applications chez [DIGIFAB](https://digifab.fr/)<br>🌱 Je me perfectionne en HTML/CSS, JavaScript<br>🤝 Je suis à la recheche d'un stage au sein d'une agence Web sur Genève ou France voisine. Le stage durera au minimum 2 mois et ce à partir du 16 janvier 2023.
+🔭 Je suis actuellement un cursus de Concepteur Développeur d'Applications chez [DIGIFAB](https://digifab.fr/)<br>🌱 Je me perfectionne en HTML/CSS, JavaScript<br>🤝 Je suis à la recheche d'un stage au sein d'une agence Web sur Genève ou France voisine. Le stage durera au minimum 2 mois et ce à partir du 17 janvier 2023.
 
 
 ## 🌐 Socials:
